@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "foodMarketRN.app"
-               BlueprintName = "foodMarketRN"
-               ReferencedContainer = "container:foodMarketRN.xcodeproj">
+               BuildableName = "foodmarket.app"
+               BlueprintName = "foodmarket"
+               ReferencedContainer = "container:foodmarket.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "foodMarketRNTests.xctest"
-               BlueprintName = "foodMarketRNTests"
-               ReferencedContainer = "container:foodMarketRN.xcodeproj">
+               BuildableName = "foodmarketTests.xctest"
+               BlueprintName = "foodmarketTests"
+               ReferencedContainer = "container:foodmarket.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "foodMarketRN.app"
-            BlueprintName = "foodMarketRN"
-            ReferencedContainer = "container:foodMarketRN.xcodeproj">
+            BuildableName = "foodmarket.app"
+            BlueprintName = "foodmarket"
+            ReferencedContainer = "container:foodmarket.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "foodMarketRN.app"
-            BlueprintName = "foodMarketRN"
-            ReferencedContainer = "container:foodMarketRN.xcodeproj">
+            BuildableName = "foodmarket.app"
+            BlueprintName = "foodmarket"
+            ReferencedContainer = "container:foodmarket.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
